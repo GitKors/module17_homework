@@ -1,0 +1,12 @@
+{
+    "name": "learn-js",
+    "version": "1.0.0",
+    "description": "js examples for fast learning",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^29.3.1"
+    }
+}
